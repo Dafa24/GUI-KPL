@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GUI-KPL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\controller\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\controller\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\controller\\akuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\controller\\akuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\model\\modelakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\model\\modelakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +51,109 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarangController.cs",
+              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Controller\\BarangController.cs",
+              "RelativeDocumentMoniker": "Main\\Controller\\BarangController.cs",
+              "ToolTip": "D:\\GUI-KPL\\Main\\Controller\\BarangController.cs",
+              "RelativeToolTip": "Main\\Controller\\BarangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AkunController.cs",
+              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Controller\\AkunController.cs",
+              "RelativeDocumentMoniker": "Main\\Controller\\AkunController.cs",
+              "ToolTip": "D:\\GUI-KPL\\Main\\Controller\\AkunController.cs",
+              "RelativeToolTip": "Main\\Controller\\AkunController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modelAkun.cs",
+              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Model\\modelAkun.cs",
+              "RelativeDocumentMoniker": "Main\\Model\\modelAkun.cs",
+              "ToolTip": "D:\\GUI-KPL\\Main\\Model\\modelAkun.cs",
+              "RelativeToolTip": "Main\\Model\\modelAkun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "D:\\GUI-KPL\\View\\Homepage.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.cs",
+              "ToolTip": "D:\\GUI-KPL\\View\\Homepage.cs [Design]",
+              "RelativeToolTip": "View\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:02.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homepage.Designer.cs",
+              "DocumentMoniker": "D:\\GUI-KPL\\View\\Homepage.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.Designer.cs",
+              "ToolTip": "D:\\GUI-KPL\\View\\Homepage.Designer.cs",
+              "RelativeToolTip": "View\\Homepage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:20:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dataBarang.json",
+              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Data\\dataBarang.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataBarang.json",
+              "ToolTip": "D:\\GUI-KPL\\Main\\Data\\dataBarang.json",
+              "RelativeToolTip": "Main\\Data\\dataBarang.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:20:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dataAkun.json",
+              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Data\\dataAkun.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataAkun.json",
+              "ToolTip": "D:\\GUI-KPL\\Main\\Data\\dataAkun.json",
+              "RelativeToolTip": "Main\\Data\\dataAkun.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:20:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main",
+              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Main.csproj",
+              "RelativeDocumentMoniker": "Main\\Main.csproj",
+              "ToolTip": "D:\\GUI-KPL\\Main\\Main.csproj",
+              "RelativeToolTip": "Main\\Main.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T11:20:36.958Z",
+              "EditorCaption": ""
             }
           ]
         }
