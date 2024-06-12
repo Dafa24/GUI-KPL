@@ -42,7 +42,8 @@ namespace View
 
         private void lihatTabel_Click(object sender, EventArgs e)
         {
-
+            TabelBarang tabelBarang = new TabelBarang();
+            tabelBarang.Visible = true;
         }
     }
 }

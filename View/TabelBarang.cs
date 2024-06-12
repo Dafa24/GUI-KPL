@@ -1,23 +1,17 @@
-﻿using Main.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
+using System.IO;
 using System.Text.Json;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Main.Model;
 
 namespace View
 {
-    public partial class HomepageUser : Form
+    public partial class TabelBarang : Form
     {
         public string fileDataPathBarang = "D:\\GUI-KPL\\Main\\Data\\dataBarang.json";
 
-        public HomepageUser()
+        public TabelBarang()
         {
             InitializeComponent();
             PopulateDataGridView();
@@ -76,11 +70,11 @@ namespace View
                 string namaBarang = row.Cells[1].Value.ToString();
                 int kodeBarang = Convert.ToInt32(row.Cells[0].Value);
                 int jumlahBarang = Convert.ToInt32(row.Cells[2].Value);
-                int hargaBarang = Convert.ToInt32(row.Cells[3].Value);
-
+                int hargaBarang = Convert.ToInt32(row.Cells[3].Value); 
+               
                 Barang barang = new Barang(namaBarang, kodeBarang, jumlahBarang, hargaBarang);
 
-
+                
             }
         }
 

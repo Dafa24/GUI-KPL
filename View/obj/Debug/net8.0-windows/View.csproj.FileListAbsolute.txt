@@ -24,7 +24,6 @@ D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.pdb
 D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.genruntimeconfig.cache
 D:\GUI-KPL\View\obj\Debug\net8.0-windows\ref\View.dll
 D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.DeleteBarang.resources
-D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.EditBarang.resources
 X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.deps.json
 X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.runtimeconfig.json
 X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.exe
@@ -84,3 +83,8 @@ D:\Kuyliah\Semester 4\Tubes KPL\Clone GitHub\GUI-KPL\View\obj\Debug\net8.0-windo
 D:\Kuyliah\Semester 4\Tubes KPL\Clone GitHub\GUI-KPL\View\obj\Debug\net8.0-windows\View.Login.resources
 D:\Kuyliah\Semester 4\Tubes KPL\Clone GitHub\GUI-KPL\View\obj\Debug\net8.0-windows\View.Register.resources
 D:\Kuyliah\Semester 4\Tubes KPL\Clone GitHub\GUI-KPL\View\obj\Debug\net8.0-windows\View.HomepageUser.resources
+D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.CariBarang.resources
+D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.HomepageUser.resources
+D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.Login.resources
+D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.Register.resources
+D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.TabelBarang.resources
