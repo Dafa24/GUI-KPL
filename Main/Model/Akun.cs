@@ -8,8 +8,6 @@ namespace Main.Model
 {
     public class Akun
     {
-        public int Id { get; set; }
-
         public string Username { get; set; }
 
         public string Nama { get; set; }
@@ -18,9 +16,9 @@ namespace Main.Model
 
         public string Role { get; set; }
 
-        public Akun(int Id, string Username, string Password, string Nama, string Role)
+        public Akun( string Username, string Password, string Nama, string Role)
         {
-            this.Id = Id;
+        
             this.Username = Username;
             this.Password = Password;
             this.Nama = Nama;

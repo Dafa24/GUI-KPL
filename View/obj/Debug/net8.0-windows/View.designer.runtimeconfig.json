@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Hewlett Packard\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Hewlett Packard\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\Irji Syahrul\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Irji Syahrul\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
