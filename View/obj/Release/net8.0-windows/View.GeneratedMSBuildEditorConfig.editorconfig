@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = View
-build_property.ProjectDir = X:\Tubes KPL GUI\GUI-KPL\View\
+build_property.ProjectDir = D:\GUI-KPL\View\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

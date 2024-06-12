@@ -49,7 +49,7 @@ namespace View
 
         public List<Barang> ReadJSON()
         {
-            string filePathDataBarang = "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json";
+            string filePathDataBarang = "D:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json";
             List<Barang> DataBarang = new List<Barang>();
             try
             {
@@ -65,7 +65,7 @@ namespace View
         }
         private void WriteJSON(List<Barang> newDataBarang)
         {
-            string filePathDataBarang = "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json";
+            string filePathDataBarang = "D:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true

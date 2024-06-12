@@ -1,8 +1,14 @@
 [
   {
-    "NamaBarang": "kondom",
+    "NamaBarang": "ipad",
     "KodeBarang": 11,
     "JumlahBarang": 1,
     "HargaBarang": 23
+  },
+  {
+    "NamaBarang": "ipon 14",
+    "KodeBarang": 3,
+    "JumlahBarang": 9,
+    "HargaBarang": 900000
   }
 ]

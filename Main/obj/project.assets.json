@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Irji Syahrul\\.nuget\\packages\\": {}
+    "C:\\Users\\pradi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\Main.csproj",
+      "projectUniqueName": "D:\\GUI-KPL\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\Main.csproj",
-      "packagesPath": "C:\\Users\\Irji Syahrul\\.nuget\\packages\\",
-      "outputPath": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\obj\\",
+      "projectPath": "D:\\GUI-KPL\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\pradi\\.nuget\\packages\\",
+      "outputPath": "D:\\GUI-KPL\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Irji Syahrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pradi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

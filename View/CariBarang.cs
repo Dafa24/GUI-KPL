@@ -52,7 +52,7 @@ namespace View
         }
         public List<Barang> ReadJSON()
         {
-            string filePathDataBarang = "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json";
+            string filePathDataBarang = "D:\\GUI-KPL\\Main\\Data\\dataBarang.json";
             List<Barang> DataBarang = new List<Barang>();
             try
             {

@@ -72,7 +72,7 @@ namespace View
 
         public List<Akun> ReadJSON()
         {
-            string filePathDataAkun = "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\Data\\dataAkun.json";
+            string filePathDataAkun = "D:\\GUI-KPL\\Main\\Data\\dataAkun.json";
             List<Akun> dataAkun = new List<Akun>();
             try
             {
@@ -88,7 +88,7 @@ namespace View
         }
         private void WriteJSON(List<Akun> newDataBarang)
         {
-            string filePathDataAkun = "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\Data\\dataAkun.json";
+            string filePathDataAkun = "D:\\GUI-KPL\\Main\\Data\\dataAkun.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true

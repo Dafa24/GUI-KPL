@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Irji Syahrul\\.nuget\\packages\\": {}
+    "C:\\Users\\pradi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\View\\View.csproj",
+      "projectUniqueName": "D:\\GUI-KPL\\View\\View.csproj",
       "projectName": "View",
-      "projectPath": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\View\\View.csproj",
-      "packagesPath": "C:\\Users\\Irji Syahrul\\.nuget\\packages\\",
-      "outputPath": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\View\\obj\\",
+      "projectPath": "D:\\GUI-KPL\\View\\View.csproj",
+      "packagesPath": "C:\\Users\\pradi\\.nuget\\packages\\",
+      "outputPath": "D:\\GUI-KPL\\View\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Irji Syahrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pradi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\Main.csproj": {
-              "projectPath": "D:\\Kuyliah\\Semester 4\\Tubes KPL\\Clone GitHub\\GUI-KPL\\Main\\Main.csproj"
+            "D:\\GUI-KPL\\Main\\Main.csproj": {
+              "projectPath": "D:\\GUI-KPL\\Main\\Main.csproj"
             }
           }
         }

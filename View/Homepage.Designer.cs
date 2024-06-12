@@ -30,7 +30,6 @@
         {
             labelHomepage = new Label();
             buttonAdd = new Button();
-            buttonEdit = new Button();
             buttonSearch = new Button();
             buttonDelete = new Button();
             lihatTabel = new Button();
@@ -56,16 +55,6 @@
             buttonAdd.UseVisualStyleBackColor = true;
             buttonAdd.Click += buttonAdd_Click;
             // 
-            // buttonEdit
-            // 
-            buttonEdit.Location = new Point(283, 98);
-            buttonEdit.Name = "buttonEdit";
-            buttonEdit.Size = new Size(143, 57);
-            buttonEdit.TabIndex = 2;
-            buttonEdit.Text = "Edit Barang";
-            buttonEdit.UseVisualStyleBackColor = true;
-            buttonEdit.Click += buttonEdit_Click;
-            // 
             // buttonSearch
             // 
             buttonSearch.Location = new Point(31, 185);
@@ -88,7 +77,7 @@
             // 
             // lihatTabel
             // 
-            lihatTabel.Location = new Point(153, 264);
+            lihatTabel.Location = new Point(283, 98);
             lihatTabel.Name = "lihatTabel";
             lihatTabel.Size = new Size(143, 57);
             lihatTabel.TabIndex = 5;
@@ -104,7 +93,6 @@
             Controls.Add(lihatTabel);
             Controls.Add(buttonDelete);
             Controls.Add(buttonSearch);
-            Controls.Add(buttonEdit);
             Controls.Add(buttonAdd);
             Controls.Add(labelHomepage);
             Name = "Homepage";
@@ -117,7 +105,6 @@
 
         private Label labelHomepage;
         private Button buttonAdd;
-        private Button buttonEdit;
         private Button buttonSearch;
         private Button buttonDelete;
         private Button lihatTabel;
