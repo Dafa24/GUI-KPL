@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("homepage_gui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f1cfde7a6540215d5107f751556d34c5abbcd5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a292fe7ed9a0d4820cd2fdbfb5a280f00deec91")]
 [assembly: System.Reflection.AssemblyProductAttribute("homepage_gui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("homepage_gui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

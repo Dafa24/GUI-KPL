@@ -25,3 +25,31 @@ D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.genruntimeconfig.cache
 D:\GUI-KPL\View\obj\Debug\net8.0-windows\ref\View.dll
 D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.DeleteBarang.resources
 D:\GUI-KPL\View\obj\Debug\net8.0-windows\View.EditBarang.resources
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.deps.json
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.runtimeconfig.json
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.exe
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\View.exe
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\View.deps.json
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\View.runtimeconfig.json
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\View.dll
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\View.pdb
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.dll
+X:\Tubes KPL GUI\GUI-KPL\View\bin\Debug\net8.0-windows\Main.pdb
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.csproj.AssemblyReference.cache
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.CreateBarang.resources
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.DeleteBarang.resources
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.EditBarang.resources
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.Homepage.resources
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.csproj.GenerateResource.cache
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.AssemblyInfoInputs.cache
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.AssemblyInfo.cs
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.csproj.CoreCompileInputs.cache
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.sourcelink.json
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.csproj.Up2Date
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.dll
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\refint\View.dll
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.pdb
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.genruntimeconfig.cache
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\ref\View.dll
+X:\Tubes KPL GUI\GUI-KPL\View\obj\Debug\net8.0-windows\View.CariBarang.resources

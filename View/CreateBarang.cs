@@ -63,7 +63,7 @@ namespace View
         }
         private void WriteJSON(List<Barang> newDataBarang)
         {
-            string filePathDataBarang = "D:\\GUI-KPL\\Main\\Data\\dataBarang.json";
+            string filePathDataBarang = "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true
