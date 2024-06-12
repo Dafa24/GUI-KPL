@@ -13,3 +13,18 @@ D:\GUI-KPL\Main\obj\Debug\net8.0\refint\Main.dll
 D:\GUI-KPL\Main\obj\Debug\net8.0\Main.pdb
 D:\GUI-KPL\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
 D:\GUI-KPL\Main\obj\Debug\net8.0\ref\Main.dll
+X:\Tubes KPL GUI\GUI-KPL\Main\bin\Debug\net8.0\Main.exe
+X:\Tubes KPL GUI\GUI-KPL\Main\bin\Debug\net8.0\Main.deps.json
+X:\Tubes KPL GUI\GUI-KPL\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+X:\Tubes KPL GUI\GUI-KPL\Main\bin\Debug\net8.0\Main.dll
+X:\Tubes KPL GUI\GUI-KPL\Main\bin\Debug\net8.0\Main.pdb
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.sourcelink.json
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.dll
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\refint\Main.dll
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.pdb
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+X:\Tubes KPL GUI\GUI-KPL\Main\obj\Debug\net8.0\ref\Main.dll

@@ -1,70 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GUI-KPL\\",
+  "WorkspaceRootPath": "X:\\Tubes KPL GUI\\GUI-KPL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|D:\\GUI-KPL\\main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|D:\\GUI-KPL\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\editbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|x:\\tubes kpl gui\\gui-kpl\\view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|x:\\tubes kpl gui\\gui-kpl\\view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|x:\\tubes kpl gui\\gui-kpl\\view\\caribarang.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|x:\\tubes kpl gui\\gui-kpl\\view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|x:\\tubes kpl gui\\gui-kpl\\view\\editbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\editbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\editbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\editbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|D:\\GUI-KPL\\view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\main\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|D:\\GUI-KPL\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|d:\\gui-kpl\\view\\createbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\view\\createbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|d:\\gui-kpl\\main\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|X:\\Tubes KPL GUI\\GUI-KPL\\main\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|D:\\GUI-KPL\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,84 +93,38 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DeleteBarang.cs [Design]",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\DeleteBarang.cs",
-              "RelativeDocumentMoniker": "View\\DeleteBarang.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\DeleteBarang.cs [Design]",
-              "RelativeToolTip": "View\\DeleteBarang.cs [Design]",
+              "Title": "CariBarang.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CariBarang.cs",
+              "RelativeDocumentMoniker": "View\\CariBarang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CariBarang.cs",
+              "RelativeToolTip": "View\\CariBarang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:05:12.374Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Homepage.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\Homepage.cs",
-              "RelativeDocumentMoniker": "View\\Homepage.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\Homepage.cs",
-              "RelativeToolTip": "View\\Homepage.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowCYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:26:21.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateBarang.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\CreateBarang.cs",
-              "RelativeDocumentMoniker": "View\\CreateBarang.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\CreateBarang.cs",
-              "RelativeToolTip": "View\\CreateBarang.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAnwEsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:28:24.356Z",
+              "WhenOpened": "2024-06-12T13:03:03.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "dataBarang.json",
-              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Data\\dataBarang.json",
-              "RelativeDocumentMoniker": "Main\\Data\\dataBarang.json",
-              "ToolTip": "D:\\GUI-KPL\\Main\\Data\\dataBarang.json",
-              "RelativeToolTip": "Main\\Data\\dataBarang.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T11:20:37.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DeleteBarang.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\DeleteBarang.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\DeleteBarang.cs",
               "RelativeDocumentMoniker": "View\\DeleteBarang.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\DeleteBarang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\DeleteBarang.cs",
               "RelativeToolTip": "View\\DeleteBarang.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAwAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T12:06:30.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CreateBarang.cs [Design]",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\CreateBarang.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CreateBarang.cs",
               "RelativeDocumentMoniker": "View\\CreateBarang.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\CreateBarang.cs [Design]",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CreateBarang.cs [Design]",
               "RelativeToolTip": "View\\CreateBarang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T11:27:04.135Z",
@@ -162,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Homepage.cs [Design]",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\Homepage.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Homepage.cs",
               "RelativeDocumentMoniker": "View\\Homepage.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\Homepage.cs [Design]",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Homepage.cs [Design]",
               "RelativeToolTip": "View\\Homepage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T11:21:02.811Z",
@@ -174,11 +144,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditBarang.cs [Design]",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\EditBarang.cs",
+              "DocumentIndex": 0,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Homepage.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Homepage.cs",
+              "RelativeToolTip": "View\\Homepage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:26:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CariBarang.cs [Design]",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CariBarang.cs",
+              "RelativeDocumentMoniker": "View\\CariBarang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CariBarang.cs [Design]",
+              "RelativeToolTip": "View\\CariBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:54:42.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CariBarang.resx",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CariBarang.resx",
+              "RelativeDocumentMoniker": "View\\CariBarang.resx",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CariBarang.resx",
+              "RelativeToolTip": "View\\CariBarang.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T13:04:05.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBarang.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CreateBarang.cs",
+              "RelativeDocumentMoniker": "View\\CreateBarang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CreateBarang.cs",
+              "RelativeToolTip": "View\\CreateBarang.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAnwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:28:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteBarang.cs [Design]",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\DeleteBarang.cs",
+              "RelativeDocumentMoniker": "View\\DeleteBarang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\DeleteBarang.cs [Design]",
+              "RelativeToolTip": "View\\DeleteBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:05:12.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dataBarang.json",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataBarang.json",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataBarang.json",
+              "RelativeToolTip": "Main\\Data\\dataBarang.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:20:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dataAkun.json",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataAkun.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataAkun.json",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Data\\dataAkun.json",
+              "RelativeToolTip": "Main\\Data\\dataAkun.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:20:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditBarang.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\EditBarang.cs",
               "RelativeDocumentMoniker": "View\\EditBarang.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\EditBarang.cs [Design]",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\EditBarang.cs",
+              "RelativeToolTip": "View\\EditBarang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:48:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditBarang.cs [Design]",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\EditBarang.cs",
+              "RelativeDocumentMoniker": "View\\EditBarang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\EditBarang.cs [Design]",
               "RelativeToolTip": "View\\EditBarang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T12:04:25.482Z",
@@ -186,11 +257,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Homepage.Designer.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\Homepage.Designer.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Homepage.Designer.cs",
               "RelativeDocumentMoniker": "View\\Homepage.Designer.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\Homepage.Designer.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Homepage.Designer.cs",
               "RelativeToolTip": "View\\Homepage.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Akun.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Model\\Akun.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Model\\Akun.cs",
               "RelativeDocumentMoniker": "Main\\Model\\Akun.cs",
-              "ToolTip": "D:\\GUI-KPL\\Main\\Model\\Akun.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Model\\Akun.cs",
               "RelativeToolTip": "Main\\Model\\Akun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Barang.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Model\\Barang.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Model\\Barang.cs",
               "RelativeDocumentMoniker": "Main\\Model\\Barang.cs",
-              "ToolTip": "D:\\GUI-KPL\\Main\\Model\\Barang.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Model\\Barang.cs",
               "RelativeToolTip": "Main\\Model\\Barang.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\Program.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Program.cs",
               "RelativeDocumentMoniker": "View\\Program.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\Program.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\Program.cs",
               "RelativeToolTip": "View\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "CreateBarang.Designer.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\View\\CreateBarang.Designer.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CreateBarang.Designer.cs",
               "RelativeDocumentMoniker": "View\\CreateBarang.Designer.cs",
-              "ToolTip": "D:\\GUI-KPL\\View\\CreateBarang.Designer.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\View\\CreateBarang.Designer.cs",
               "RelativeToolTip": "View\\CreateBarang.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +322,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Progam.cs",
-              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Progam.cs",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Progam.cs",
               "RelativeDocumentMoniker": "Main\\Progam.cs",
-              "ToolTip": "D:\\GUI-KPL\\Main\\Progam.cs",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Progam.cs",
               "RelativeToolTip": "Main\\Progam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,28 +335,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Main.csproj",
-              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Main.csproj",
+              "DocumentMoniker": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Main.csproj",
               "RelativeDocumentMoniker": "Main\\Main.csproj",
-              "ToolTip": "D:\\GUI-KPL\\Main\\Main.csproj",
+              "ToolTip": "X:\\Tubes KPL GUI\\GUI-KPL\\Main\\Main.csproj",
               "RelativeToolTip": "Main\\Main.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-06-12T11:20:36.958Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "dataAkun.json",
-              "DocumentMoniker": "D:\\GUI-KPL\\Main\\Data\\dataAkun.json",
-              "RelativeDocumentMoniker": "Main\\Data\\dataAkun.json",
-              "ToolTip": "D:\\GUI-KPL\\Main\\Data\\dataAkun.json",
-              "RelativeToolTip": "Main\\Data\\dataAkun.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T11:20:37.273Z"
             }
           ]
         }

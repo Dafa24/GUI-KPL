@@ -30,7 +30,8 @@ namespace View
 
         private void buttonSearch_Click(object sender, EventArgs e)
         {
-
+            CariBarang caribarang = new CariBarang();
+            caribarang.Visible = true;
         }
 
         private void buttonDelete_Click(object sender, EventArgs e)
