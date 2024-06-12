@@ -19,12 +19,13 @@ namespace View
 
         private void buttonAdd_Click(object sender, EventArgs e)
         {
-
+            CreateBarang createBarang = new CreateBarang();
+            createBarang.Visible = true;
         }
 
         private void buttonEdit_Click(object sender, EventArgs e)
         {
-
+             
         }
 
         private void buttonSearch_Click(object sender, EventArgs e)
@@ -34,7 +35,8 @@ namespace View
 
         private void buttonDelete_Click(object sender, EventArgs e)
         {
-
+            DeleteBarang deleteBarang = new DeleteBarang();
+            deleteBarang.Visible = true;
         }
 
         private void lihatTabel_Click(object sender, EventArgs e)
